@@ -2,5 +2,6 @@
 	{ "id": 9121, "label": "TTNET", "asn": 9121, "country": "tr" },
 	{ "id": 8517, "label": "ULAK", "asn": 8517, "country": "tr" },
 	{ "id": 3, "label": "QWER", "asn": 3456, "country": "us" },
+	{ "id": 700, "label": "NaN", "asn": 700, "country": "space" },
 	{ "id": 1400, "label": "ASDF", "asn": 1400, "country": "mars" }
 ]
